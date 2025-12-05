@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriTrack AI",
+  "description": "AI-powered nutrition tracker SaaS. Snap a photo, track calories, and reach your health goals with personalized insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
